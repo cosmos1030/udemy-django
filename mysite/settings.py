@@ -125,4 +125,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 STATIC_URL = '/static/'
 
-CSRF_TRUSTED_ORIGINS =['https://8000-cosmos1030-udemydjango-5pckkx1da24.ws-us78.gitpod.io']
+CSRF_TRUSTED_ORIGINS =['https://8000-cosmos1030-udemydjango-5pckkx1da24.ws-us78.gitpod.io', 'https://8000-cosmos1030-udemydjango-72g8ccg5xa3.ws-us78.gitpod.io']
